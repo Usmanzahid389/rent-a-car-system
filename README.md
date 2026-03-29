@@ -1,4 +1,5 @@
 # Rent-a-car vehicle booking system
+<img width="1262" height="738" alt="image" src="https://github.com/user-attachments/assets/65d81b9f-2318-4382-a4d8-f528f2cd5f80" />
 
 Admin-only dashboard for managing customers, vehicles, and bookings. Backend: **Express**, **Prisma**, **MySQL**. Frontend: **Vite**, **React**, **TypeScript**.
 
