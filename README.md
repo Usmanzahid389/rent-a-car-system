@@ -3,6 +3,10 @@
 
 Admin-only dashboard for managing customers, vehicles, and bookings. Backend: **Express**, **Prisma**, **MySQL**. Frontend: **Vite**, **React**, **TypeScript**.
 
+<img width="1254" height="712" alt="image" src="https://github.com/user-attachments/assets/16c2248f-25f0-46f8-a22e-ff55d0d99d91" />
+<img width="1261" height="722" alt="image" src="https://github.com/user-attachments/assets/d9495789-524c-49f3-8106-a67624bbbe46" />
+<img width="1266" height="720" alt="image" src="https://github.com/user-attachments/assets/b70b76db-9075-4523-8c93-3b1b6e8e6cbf" />
+
 ## Prerequisites
 
 - Node.js 20+
